@@ -1,0 +1,29 @@
+.topNavigation {
+  display: flex;
+  // margin: 1rem 0 0;
+
+  .logo {
+    min-height: 50px;
+    align-self: stretch;
+  }
+
+  .logo__big{
+    width: 260px;
+    // padding: 2rem;
+  }
+  .logo__small {
+    width: none;
+  }
+}
+.ui.vertical.menu {
+  width: 260px;
+}
+.sideBar {
+  margin: 0 1rem;
+}
+.topNavigation__breadcrumb {
+  margin: 0 2rem;
+}
+.ui.left.visible.sidebar, .ui.right.visible.sidebar{
+  box-shadow: none;
+}
