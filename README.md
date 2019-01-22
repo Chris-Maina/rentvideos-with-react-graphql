@@ -1,6 +1,6 @@
-# react-starter-pack
+# Rent Videos with Graphql and React
 
-This starter pack has webpack configured to get you started with your project.
+This project has webpack configured to get you started with your project.
 If you want to deploy your production code using surge:
 
       * npm install surge --save-dev
