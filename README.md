@@ -1,10 +1,6 @@
 # Rent Videos with Graphql and React
 
-This project has webpack configured to get you started with your project.
-If you want to deploy your production code using surge:
-
-      * npm install surge --save-dev
-      * Add a script to deploy using surge e.g "deploy": "yarn build; surge -p client/build/"`
+This is a playground to demonstrate integration of backend built using GrapQL and front-end using React and webpack.  
       
 ### Technologies used:
  * MongoDB
@@ -12,4 +8,5 @@ If you want to deploy your production code using surge:
  * Express
  * GraphQL
  * React
+ * Webpack
 
