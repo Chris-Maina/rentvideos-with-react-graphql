@@ -5,3 +5,11 @@ If you want to deploy your production code using surge:
 
       * npm install surge --save-dev
       * Add a script to deploy using surge e.g "deploy": "yarn build; surge -p client/build/"`
+      
+### Technologies used:
+ * MongoDB
+ * Node v10.1.0
+ * Express
+ * GraphQL
+ * React
+
